@@ -1,0 +1,7 @@
+package ittimfn.sample.sqlite;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+}
